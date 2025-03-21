@@ -20,6 +20,7 @@
   "homepage": "https://github.com/Prof-White-Belt/environment-variables#readme",
   "description": "",
   "dependencies": {
+    "dotenv": "^16.4.7",
     "express": "^4.21.2"
   }
 }
